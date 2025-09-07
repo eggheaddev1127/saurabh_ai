@@ -21,9 +21,9 @@ export const profile = {
             description: "Automating ML workflows with scalable pipelines, CI/CD, and cloud deployment for production-ready models."
         },
         {
-            icon: "devicon-figma-plain",
-            title: "UI/UX Design",
-            description: "Crafting intuitive and visually appealing user interfaces that enhance user experience."
+            icon: "devicon-git-plain",
+            title: "Problem Solving",
+            description: "Driven by a love for tackling challenges and architecting efficient, scalable solutions."
         }
     ],
     social: [
