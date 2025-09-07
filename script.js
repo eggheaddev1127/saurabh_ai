@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const resumeBtn = document.querySelector('.hero-buttons .btn-secondary');
         resumeBtn.textContent = "Resume";
         resumeBtn.href = "constants/resume/Resume.pdf";
-        resumeBtn.setAttribute('download', 'Ratna_Babu_Resume.pdf');
+        resumeBtn.setAttribute('download', 'Resume.pdf');
         
         // document.querySelector('.hero-image').src = profile.profilePicture;
         // document.querySelector('.logo').textContent = `${profile.name}.`;
